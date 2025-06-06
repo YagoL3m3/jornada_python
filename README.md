@@ -129,10 +129,6 @@ Cada projeto foi desenvolvido pensando em cenários reais do mercado de trabalho
 
 Projetos desenvolvidos durante a **Jornada Python** do [Canal Hashtag](https://www.hashtagtreinamentos.com/), evento focado em aplicações práticas de Python no mercado de trabalho.
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
@@ -142,9 +138,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📞 Contato
 
-Desenvolvido por [Seu Nome]  
-LinkedIn: [seu-linkedin]  
-Email: seu-email@exemplo.com
+Desenvolvido por Yago Leme  
+LinkedIn: https://www.linkedin.com/in/yago-leme-550845205/ 
+Email: lemey592@gmail.com
 
 ---
 
